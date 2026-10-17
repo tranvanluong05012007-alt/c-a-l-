@@ -36,7 +36,7 @@ body {
 .hero-section {
   background-image:
     linear-gradient(rgba(0, 35, 70, 0.32), rgba(0, 35, 70, 0.32)),
-    url("../image/images.jpg");
+    url("image/baibien.webp");
 
   background-size: cover;
   background-position: center;
